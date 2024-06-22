@@ -1,0 +1,15 @@
+D:\net-bootcamp-activities\CoreNetActivities\Activity6.Console\bin\Debug\net6.0\Activity6.Console.exe
+D:\net-bootcamp-activities\CoreNetActivities\Activity6.Console\bin\Debug\net6.0\Activity6.Console.deps.json
+D:\net-bootcamp-activities\CoreNetActivities\Activity6.Console\bin\Debug\net6.0\Activity6.Console.runtimeconfig.json
+D:\net-bootcamp-activities\CoreNetActivities\Activity6.Console\bin\Debug\net6.0\Activity6.Console.dll
+D:\net-bootcamp-activities\CoreNetActivities\Activity6.Console\bin\Debug\net6.0\Activity6.Console.pdb
+D:\net-bootcamp-activities\CoreNetActivities\Activity6.Console\obj\Debug\net6.0\Activity6.Console.csproj.AssemblyReference.cache
+D:\net-bootcamp-activities\CoreNetActivities\Activity6.Console\obj\Debug\net6.0\Activity6.Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\net-bootcamp-activities\CoreNetActivities\Activity6.Console\obj\Debug\net6.0\Activity6.Console.AssemblyInfoInputs.cache
+D:\net-bootcamp-activities\CoreNetActivities\Activity6.Console\obj\Debug\net6.0\Activity6.Console.AssemblyInfo.cs
+D:\net-bootcamp-activities\CoreNetActivities\Activity6.Console\obj\Debug\net6.0\Activity6.Console.csproj.CoreCompileInputs.cache
+D:\net-bootcamp-activities\CoreNetActivities\Activity6.Console\obj\Debug\net6.0\Activity6.Console.dll
+D:\net-bootcamp-activities\CoreNetActivities\Activity6.Console\obj\Debug\net6.0\refint\Activity6.Console.dll
+D:\net-bootcamp-activities\CoreNetActivities\Activity6.Console\obj\Debug\net6.0\Activity6.Console.pdb
+D:\net-bootcamp-activities\CoreNetActivities\Activity6.Console\obj\Debug\net6.0\Activity6.Console.genruntimeconfig.cache
+D:\net-bootcamp-activities\CoreNetActivities\Activity6.Console\obj\Debug\net6.0\ref\Activity6.Console.dll

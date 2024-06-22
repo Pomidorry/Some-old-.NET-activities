@@ -1,0 +1,15 @@
+D:\net-bootcamp-activities\CoreNetActivities\LoanProcessing\bin\Debug\net6.0\LoanProcessing.exe
+D:\net-bootcamp-activities\CoreNetActivities\LoanProcessing\bin\Debug\net6.0\LoanProcessing.deps.json
+D:\net-bootcamp-activities\CoreNetActivities\LoanProcessing\bin\Debug\net6.0\LoanProcessing.runtimeconfig.json
+D:\net-bootcamp-activities\CoreNetActivities\LoanProcessing\bin\Debug\net6.0\LoanProcessing.dll
+D:\net-bootcamp-activities\CoreNetActivities\LoanProcessing\bin\Debug\net6.0\LoanProcessing.pdb
+D:\net-bootcamp-activities\CoreNetActivities\LoanProcessing\obj\Debug\net6.0\LoanProcessing.csproj.AssemblyReference.cache
+D:\net-bootcamp-activities\CoreNetActivities\LoanProcessing\obj\Debug\net6.0\LoanProcessing.GeneratedMSBuildEditorConfig.editorconfig
+D:\net-bootcamp-activities\CoreNetActivities\LoanProcessing\obj\Debug\net6.0\LoanProcessing.AssemblyInfoInputs.cache
+D:\net-bootcamp-activities\CoreNetActivities\LoanProcessing\obj\Debug\net6.0\LoanProcessing.AssemblyInfo.cs
+D:\net-bootcamp-activities\CoreNetActivities\LoanProcessing\obj\Debug\net6.0\LoanProcessing.csproj.CoreCompileInputs.cache
+D:\net-bootcamp-activities\CoreNetActivities\LoanProcessing\obj\Debug\net6.0\LoanProcessing.dll
+D:\net-bootcamp-activities\CoreNetActivities\LoanProcessing\obj\Debug\net6.0\refint\LoanProcessing.dll
+D:\net-bootcamp-activities\CoreNetActivities\LoanProcessing\obj\Debug\net6.0\LoanProcessing.pdb
+D:\net-bootcamp-activities\CoreNetActivities\LoanProcessing\obj\Debug\net6.0\LoanProcessing.genruntimeconfig.cache
+D:\net-bootcamp-activities\CoreNetActivities\LoanProcessing\obj\Debug\net6.0\ref\LoanProcessing.dll

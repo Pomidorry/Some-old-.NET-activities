@@ -1,0 +1,12 @@
+D:\net-bootcamp-activities\CoreNetActivities\Activity4\obj\Debug\net6.0\Activity4.csproj.AssemblyReference.cache
+D:\net-bootcamp-activities\CoreNetActivities\Activity4\obj\Debug\net6.0\Activity4.GeneratedMSBuildEditorConfig.editorconfig
+D:\net-bootcamp-activities\CoreNetActivities\Activity4\obj\Debug\net6.0\Activity4.AssemblyInfoInputs.cache
+D:\net-bootcamp-activities\CoreNetActivities\Activity4\obj\Debug\net6.0\Activity4.AssemblyInfo.cs
+D:\net-bootcamp-activities\CoreNetActivities\Activity4\obj\Debug\net6.0\Activity4.csproj.CoreCompileInputs.cache
+D:\net-bootcamp-activities\CoreNetActivities\Activity4\bin\Debug\net6.0\Activity4.deps.json
+D:\net-bootcamp-activities\CoreNetActivities\Activity4\bin\Debug\net6.0\Activity4.dll
+D:\net-bootcamp-activities\CoreNetActivities\Activity4\bin\Debug\net6.0\Activity4.pdb
+D:\net-bootcamp-activities\CoreNetActivities\Activity4\obj\Debug\net6.0\Activity4.dll
+D:\net-bootcamp-activities\CoreNetActivities\Activity4\obj\Debug\net6.0\refint\Activity4.dll
+D:\net-bootcamp-activities\CoreNetActivities\Activity4\obj\Debug\net6.0\Activity4.pdb
+D:\net-bootcamp-activities\CoreNetActivities\Activity4\obj\Debug\net6.0\ref\Activity4.dll

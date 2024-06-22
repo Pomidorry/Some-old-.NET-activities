@@ -1,0 +1,15 @@
+D:\net-bootcamp-activities\CoreNetActivities\TrainStation\bin\Debug\net6.0\TrainStation.exe
+D:\net-bootcamp-activities\CoreNetActivities\TrainStation\bin\Debug\net6.0\TrainStation.deps.json
+D:\net-bootcamp-activities\CoreNetActivities\TrainStation\bin\Debug\net6.0\TrainStation.runtimeconfig.json
+D:\net-bootcamp-activities\CoreNetActivities\TrainStation\bin\Debug\net6.0\TrainStation.dll
+D:\net-bootcamp-activities\CoreNetActivities\TrainStation\bin\Debug\net6.0\TrainStation.pdb
+D:\net-bootcamp-activities\CoreNetActivities\TrainStation\obj\Debug\net6.0\TrainStation.csproj.AssemblyReference.cache
+D:\net-bootcamp-activities\CoreNetActivities\TrainStation\obj\Debug\net6.0\TrainStation.GeneratedMSBuildEditorConfig.editorconfig
+D:\net-bootcamp-activities\CoreNetActivities\TrainStation\obj\Debug\net6.0\TrainStation.AssemblyInfoInputs.cache
+D:\net-bootcamp-activities\CoreNetActivities\TrainStation\obj\Debug\net6.0\TrainStation.AssemblyInfo.cs
+D:\net-bootcamp-activities\CoreNetActivities\TrainStation\obj\Debug\net6.0\TrainStation.csproj.CoreCompileInputs.cache
+D:\net-bootcamp-activities\CoreNetActivities\TrainStation\obj\Debug\net6.0\TrainStation.dll
+D:\net-bootcamp-activities\CoreNetActivities\TrainStation\obj\Debug\net6.0\refint\TrainStation.dll
+D:\net-bootcamp-activities\CoreNetActivities\TrainStation\obj\Debug\net6.0\TrainStation.pdb
+D:\net-bootcamp-activities\CoreNetActivities\TrainStation\obj\Debug\net6.0\TrainStation.genruntimeconfig.cache
+D:\net-bootcamp-activities\CoreNetActivities\TrainStation\obj\Debug\net6.0\ref\TrainStation.dll

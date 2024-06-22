@@ -1,0 +1,12 @@
+D:\net-bootcamp-activities\CoreNetActivities\Activity7\bin\Debug\net6.0\Activity7.deps.json
+D:\net-bootcamp-activities\CoreNetActivities\Activity7\bin\Debug\net6.0\Activity7.dll
+D:\net-bootcamp-activities\CoreNetActivities\Activity7\bin\Debug\net6.0\Activity7.pdb
+D:\net-bootcamp-activities\CoreNetActivities\Activity7\obj\Debug\net6.0\Activity7.csproj.AssemblyReference.cache
+D:\net-bootcamp-activities\CoreNetActivities\Activity7\obj\Debug\net6.0\Activity7.GeneratedMSBuildEditorConfig.editorconfig
+D:\net-bootcamp-activities\CoreNetActivities\Activity7\obj\Debug\net6.0\Activity7.AssemblyInfoInputs.cache
+D:\net-bootcamp-activities\CoreNetActivities\Activity7\obj\Debug\net6.0\Activity7.AssemblyInfo.cs
+D:\net-bootcamp-activities\CoreNetActivities\Activity7\obj\Debug\net6.0\Activity7.csproj.CoreCompileInputs.cache
+D:\net-bootcamp-activities\CoreNetActivities\Activity7\obj\Debug\net6.0\Activity7.dll
+D:\net-bootcamp-activities\CoreNetActivities\Activity7\obj\Debug\net6.0\refint\Activity7.dll
+D:\net-bootcamp-activities\CoreNetActivities\Activity7\obj\Debug\net6.0\Activity7.pdb
+D:\net-bootcamp-activities\CoreNetActivities\Activity7\obj\Debug\net6.0\ref\Activity7.dll
